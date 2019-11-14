@@ -1,0 +1,9 @@
+  body{background-color:cyan;}
+    hr{
+	border-style: none;
+	border-top-style:dotted;
+	background-color:white;
+	border-color:grey;
+	border-width:5px;
+	width:5%}
+	img{border-radius:50%;}
